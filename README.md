@@ -23,8 +23,8 @@ Console.WriteLine(x);
 
 Rzuć okiem na stronę [tekst](http://e.wsei.edu.pl) aby ...
 
-+-----+-----+
+|-----|-----|
 | xxx | yyy |
-+-----+-----+
+|-----|-----|
 | 1 | 1 |
 | a | a |
