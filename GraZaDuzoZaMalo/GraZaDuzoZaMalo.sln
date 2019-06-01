@@ -7,11 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraMonolitycznie", "GraMono
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraProceduralnie", "GraProceduralnie\GraProceduralnie.csproj", "{1E46CADA-BBB2-49A4-9B1D-F03736CCA6E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelGry", "ModelGry\ModelGry.csproj", "{9A8E87AA-E06D-4D39-B4DD-0EED4C3A7E23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelGry", "ModelGry\ModelGry.csproj", "{9A8E87AA-E06D-4D39-B4DD-0EED4C3A7E23}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTestModelGry", "ConsoleAppTestModelGry\ConsoleAppTestModelGry.csproj", "{0E9EC248-1C6F-4E76-A32B-45547AF4B8FC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectModelGry", "UnitTestProjectModelGry\UnitTestProjectModelGry.csproj", "{02AE0036-998F-4906-8F18-B4190227EE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraGUI", "GraGUI\GraGUI.csproj", "{BA7C44F3-1944-4114-BEC3-54829DD7D1F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{02AE0036-998F-4906-8F18-B4190227EE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02AE0036-998F-4906-8F18-B4190227EE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02AE0036-998F-4906-8F18-B4190227EE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7C44F3-1944-4114-BEC3-54829DD7D1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7C44F3-1944-4114-BEC3-54829DD7D1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7C44F3-1944-4114-BEC3-54829DD7D1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7C44F3-1944-4114-BEC3-54829DD7D1F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
